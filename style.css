@@ -1,0 +1,36 @@
+.body{
+    background-color: rgb(176, 180, 150);   
+}
+.button{
+    background-color: #ee4a19;
+    color: wheat;
+    border-radius: 15%;
+    margin-left: 100px;
+}
+
+.alls{
+    position: absolute;
+    top: 30%; 
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ee4a19;
+    
+    
+}
+.userinput{
+    width: 200px;
+    margin-left: 0px;
+    border-radius: 5px;
+}
+.useremail{
+    width: 200px;
+    margin-left: 36px;
+    border-radius: 5px;
+}
+
+.usermobile{
+    width: 200px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
